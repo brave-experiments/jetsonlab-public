@@ -1,0 +1,3 @@
+[submodule "jetson-monitor"]
+	path = jetson-monitor
+	url = git@github.com:brave-experiments/jetson-monitor.git
